@@ -1,0 +1,93 @@
+definitions:
+  colors:
+    - Gray1: "#111214"
+    - Gray2: "#3E4049"
+    - Gray3: "#84858B"
+    - Gray4: "#CACACD"
+    - Gray5: "#EDEDEE"
+    - Gray6: "#FDFDFD"
+    - Yellow: "#FFD774"
+    - LightYellow: "#FFF0CC"
+    - Red: "#E05263"
+    - RedTint: "#F9DFE2"
+    - Maroon: "#AB4E68"
+    - MaroonTint: "#EFDEE3"
+    - Brown: "#B07156"
+    - LightBrown: "#E9D8D0"
+    - Green: "#3AB795"
+    - LightGreen: "#B7E4D8"
+    - Peach: "#FFCAB1"
+    - LightPeach: "#FFF0E9"
+    - SlateBlue: "#4B5F78"
+    - LightSlateBlue: "#BDC4CD"
+    - Indigo: "#29339B"
+    - LightIndigo: "#D8D9EC"
+  typeStyles:
+
+
+    large: 
+      - H1:
+        FontSize: "61px"
+        LineHeight: "81px"
+      - H2:
+        FontSize: "41px"
+        LineHeight: "54px"
+      - H3:
+        FontSize: "27px"
+        LineHeight: "37px"
+      - H4:
+        FontSize: "18px"
+        LineHeight: "27px"
+      - P:
+        FontSize: "18px"
+        LineHeight: "25px"
+      - H5:
+        FontSize: "12px"
+        LineHeight: "27px"
+      - H6:
+        FontSize: "8px"
+        LineHeight: "27px"
+
+
+    small:
+      - H1:
+        FontSize: "35px"
+        LineHeight: "48px"
+      - H2:
+        FontSize: "27px"
+        LineHeight: "48px"
+      - H3:
+        FontSize: "21px"
+        LineHeight: "24px"
+      - H4:
+        FontSize: "16px"
+        LineHeight: "24px"
+      - P:
+        FontSize: "16px"
+        LineHeight: "22px"
+      - H5:
+        FontSize: "12px"
+        LineHeight: "18px"
+      - H5_1:
+        FontSize: "12px"
+        LineHeight: "18px"
+        LetterSpacing: "1px"
+        TextTransform: "uppercase"
+      - H6:
+        FontSize: "9px"
+        LineHeight: "14px"
+
+
+
+
+  fontFamilies:
+    TextFont:
+      FontFamily: "Gibson"
+      FontWeight: "300"
+    DisplayFont:
+      FontFamily: "Gibson"
+      FontWeight: "600"
+
+
+
+
